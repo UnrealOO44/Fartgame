@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1760021072,
+	"version": 1760039200,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,6 +19,7 @@
 		"images/platformspawner1-sheet0.png",
 		"images/sewer-sheet0.png",
 		"images/fish-sheet0.png",
+		"images/fish-sheet1.png",
 		"images/sewerover-sheet0.png",
 		"images/splash-sheet0.png",
 		"images/splash-sheet1.png",
@@ -52,6 +53,9 @@
 		"images/damagehit-sheet0.png",
 		"images/sprite2-sheet0.png",
 		"images/score.png",
+		"images/logopng-sheet0.png",
+		"images/wtfcoin-sheet0.png",
+		"images/info-sheet0.png",
 		"media/fish bites.ogg",
 		"media/poop_hit.ogg",
 		"media/poop_squeeze.ogg",
@@ -69,6 +73,7 @@
 		"media/coin.ogg",
 		"media/dead.ogg",
 		"media/revive.ogg",
+		"media/kick.ogg",
 		"media/bgmusic.ogg",
 		"icon-16.png",
 		"icon-32.png",
